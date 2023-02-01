@@ -1,0 +1,7 @@
+git add .доваяляет все файлы для отслеживания изменений
+git commit -m 'text' - записывает все измениниу
+git push ssh-link master -закидывает в гитхаб изменение
+
+Bayastan Eraliev
+
+x
