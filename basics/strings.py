@@ -92,7 +92,7 @@ format2= 'Название: {}, цена: {}'
 'hello world'.find('wor')# 6 it find where is the index 'wor'
 'hello world'.find('o')#4
 'hello world'.rfind('o')# 7
-
+.bo
 
 
 
