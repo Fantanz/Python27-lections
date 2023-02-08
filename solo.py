@@ -1,7 +1,9 @@
-print("Введите пароль :")
-password =input()
-
-if len(password)>=8 and password.isalpha()==False and password.isdigit()==False:
-    print("Ваш пароль сохранен")
+n = int(input())
+if n%100 in (11,12,13,14):
+    print(f'На лугу пасется {n} коров')
+elif n%10==1:
+    print(f'На лугу пасется {n} корова')
+elif 2<= n%10 n<=4:
+    print(f"На лугу пасется {n} коровы")
 else:
-    print('asdad')
+    print(f'На лугу пасется {n} коров')            
